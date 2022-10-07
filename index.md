@@ -1,8 +1,8 @@
 # My Github page
 
 
-![](images/IMG_20200706_121858.jpg"Ailakkajärvi")
-**Ailakkajärvi**
+![](images/IMG_20200706_121858.jpg)
+**Ailakkajärvi 2020**
 
 ---
 Tässä näkyy muutamia esimerkkejä, miten markdown-kieltä voi käyttää web-sivun muotoiluun. 
